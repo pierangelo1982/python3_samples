@@ -1,0 +1,1 @@
+curl -H 'Content-Type: application/json' -X GET https://192.168.56.1:9200/testdata/_search?pretty
